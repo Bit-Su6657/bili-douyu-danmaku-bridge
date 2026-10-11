@@ -1,0 +1,15 @@
+# Local snapshots and editor scratch files
+backups/
+*.bak
+新建 Text Document.txt
+
+# Third-party reference material, not part of the v1.0 release
+DouyuEx-*.txt
+b站弹幕助手-*.txt
+
+# Internal prototype scripts
+bilibili-danmaku-sampler.user.js
+bilibili-danmaku-dom-probe.user.js
+
+# Tooling
+node_modules/
